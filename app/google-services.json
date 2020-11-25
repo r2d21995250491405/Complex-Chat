@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "989170018687",
+    "firebase_url": "https://complex-chat.firebaseio.com",
+    "project_id": "complex-chat",
+    "storage_bucket": "complex-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989170018687:android:9e67fb3bad0b71ff4b124a",
+        "android_client_info": {
+          "package_name": "com.example.complexapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989170018687-ti2nc2v963peugrt6opk26nhm9rdjke3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.complexapp",
+            "certificate_hash": "4f06ff596f707e301fcb90f1fefb7c9ac1aa4473"
+          }
+        },
+        {
+          "client_id": "989170018687-um993cpeot9v99urjseeldb7iisocta5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHmT0-mdEv3GKGk2xjoo0gVsRZmU2WGHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989170018687-um993cpeot9v99urjseeldb7iisocta5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
